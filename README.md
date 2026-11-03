@@ -72,7 +72,7 @@ Open your browser at: `http://localhost:5173/`
 | **District Nodal Officer** | `kavitha@gmail.com` | `kavitha$123` | Scrutinize taluk units, endorse district quotas & forward to State Directorate |
 | **Sanction Authority** | `mayur@gmail.com` | `mayur%34` | Review verified applications, authorize & sanction DBT grants |
 | **Chief Administrator** | `sachin@gmail.com` | `sachin` | System governance, analytics, audit logs, scheme management |
-| **Citizen / Beneficiary** | `applicant@gov.in` | `password123` | Browse schemes, save schemes, submit applications, renewals, live tracking |
+| **Citizen / Beneficiary** | `sathri.kshithesh2006@gmail.com` | `Sathri@2006` | Browse schemes, save schemes, submit applications, renewals, live tracking |
 | **Public / Logged-Out** | *No Login Required* | *N/A* | Public Scheme Transparency Portal, explore schemes, view details & criteria |
 
 ---
